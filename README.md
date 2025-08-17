@@ -18,7 +18,6 @@ I developed an interactive Power BI dashboard by integrating SQL data to deliver
 ## Process
 ![Credit-Card-Report-Project-Insights (1) part 2_page-0001](https://github.com/user-attachments/assets/d50eef86-44f8-4a52-936a-53f7ca9d5297)
 
-# Dashboard
 
 ## Credit-Card-Customer-Dashboard
 ![credit_card_report_customer_page-0001](https://github.com/user-attachments/assets/4571c09d-c43d-4ba2-aebc-1c030dfe074b)
