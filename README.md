@@ -11,3 +11,8 @@ I developed an interactive Power BI dashboard by integrating SQL data to deliver
 - Find the top 3 states in terms of revenue ?
 - What is the card activation rates in a month?
 - Find the overall delinquent(defaulter) rate.
+
+## Solutions 
+![Credit-Card-Report-Project-Insights (1) part 1_page-0001](https://github.com/user-attachments/assets/7bbf842c-c243-4ead-95cf-003315cf80b8)
+
+
